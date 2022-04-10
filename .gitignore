@@ -1,0 +1,12 @@
+# Logs
+shareme_backend/logs
+shareme_backend/*.log
+
+# Coverage directory used by tools like istanbul
+shareme_backend/coverage
+
+# Dependency directories
+shareme_backend/node_modules
+
+# Compiled sanity studio
+shareme_backend/dist
