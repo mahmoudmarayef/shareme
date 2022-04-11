@@ -25,6 +25,7 @@ shareme_frontend/build
 
 # misc
 shareme_frontend/.DS_Store
+shareme_frontend/.env
 shareme_frontend/.env.local
 shareme_frontend/.env.development.local
 shareme_frontend/.env.test.local
