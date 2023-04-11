@@ -1,4 +1,4 @@
-# Social Media Application
+# Social Media Application Shareme
 
 ### [Live Site](https://sharemeplatform.netlify.app)
 
